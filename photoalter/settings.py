@@ -30,6 +30,7 @@ DEBUG = True
 # Application definition
 
 INSTALLED_APPS = [
+    'pa.apps.PaConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
